@@ -5,8 +5,6 @@ Karakterisering och spårning av nanopartiklar med djupinlärning
 (*eng.* Charaterization and tracking of nanoparticles using deep learning)
 by  Arash Darakhsh, Edvin Johansson, Simon Nilsson, Sanna Persson and Rickard Ström at Chalmers University of Technology
 
-The code for simulation will shortly be updated with further clarifications to improve ease of use.
-
 ## How to use the code
 
 ### Download the repository and weights

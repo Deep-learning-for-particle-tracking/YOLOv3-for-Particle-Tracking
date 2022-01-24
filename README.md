@@ -3,7 +3,8 @@
 This repository contains the code for the Bachelor's thesis: 
 Karakterisering och spårning av nanopartiklar med djupinlärning
 (*eng.* Characterization and tracking of nanoparticles using deep learning)
-by  Arash Darakhsh, Edvin Johansson, Simon Nilsson, Sanna Persson and Rickard Ström at Chalmers University of Technology
+by  Arash Darakhsh, Edvin Johansson, Simon Nilsson, Sanna Persson and Rickard Ström at Chalmers University of Technology  
+
 Link to thesis: [https://odr.chalmers.se/handle/20.500.12380/304358](https://odr.chalmers.se/handle/20.500.12380/304358)
 
 ## How to use the code
